@@ -1,0 +1,14 @@
+.listsContainer{
+  display: flex;
+  gap: 15px;
+}
+
+.booksReadedList, .booksList{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+  border: 1px solid white;
+  border-radius: 20px;
+}

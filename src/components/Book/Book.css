@@ -1,0 +1,15 @@
+.imageContainer {
+    position: relative;
+}
+  .bookImage {
+    width: 200px;
+    height: 300px;
+  }
+  
+  .actionButton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+  }
+  
