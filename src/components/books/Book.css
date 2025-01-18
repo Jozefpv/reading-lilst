@@ -1,0 +1,14 @@
+.bookContainer{
+    position: relative;
+}
+
+.coverBook{
+    height: 300px;
+    width: 200px;
+}
+
+.actionButton{
+    position: absolute;
+    top:0px;
+    right:0px;
+}

@@ -1,0 +1,10 @@
+.booksListContainer{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 20px;
+    justify-content: center;
+}
